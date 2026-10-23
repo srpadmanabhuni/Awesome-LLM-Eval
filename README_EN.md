@@ -328,6 +328,8 @@ If you find our survey useful, please kindly cite our paper:
 | AgentBench Reasoning and Decision-making Evaluation Leaderboard | THUDM | [AgentBench](https://github.com/THUDM/AgentBench) | Jointly launched by Tsinghua and multiple universities, it covers the reasoning and decision-making capabilities of models in different task environments, such as shopping, home, and operating systems |
 | ToolBench Tool Invocation Evaluation | Zhiyuan/Tsinghua | [ToolBench](https://github.com/OpenBMB/ToolBench) | Compares with tool fine-tuned models and ChatGPT to provide evaluation scripts |
 
+| Agentic AI Test Checklist 110 | testAIng / AiEnsured | [Hub dataset](https://huggingface.co/datasets/srinivaspadmanabhuni/agentic-ai-test-checklist-110) · [agentest](https://github.com/srpadmanabhuni/agentest) | 110 pytest-ready assurance checklist rows (T1–T7) for agentic systems: terminal state, tool allowlists, authz/HITL, privacy, explainability, bias packs. Design catalogue on Hugging Face (CC BY 4.0); offline open harness on GitHub. Not a scored model leaderboard (2026-10-24) |
+
 ### Code-Capabilities
 
 | Name | Institution | URL | Introduction |
